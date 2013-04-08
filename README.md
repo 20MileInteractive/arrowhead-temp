@@ -1,4 +1,4 @@
-arrowhead-temp
-==============
+project-starter-template
+========================
 
-Arrowhead "coming soon" page
+Template for web projects with Hammer and Foundation4
