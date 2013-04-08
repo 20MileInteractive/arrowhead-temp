@@ -16,7 +16,7 @@
 // We use these to control various global styles
 // $body-bg: #fff;
 // $body-font-color: #222;
-// $body-font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+ $body-font-family: open-sans, "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
 // $body-font-weight: normal;
 // $body-font-style: normal;
 
@@ -27,7 +27,7 @@
 // $text-direction: ltr;
 
 // We use these as default colors throughout
-// $primary-color: #2ba6cb;
+   $primary-color: rgb(219, 214, 210);
 // $secondary-color: #e9e9e9;
 // $alert-color: #c60f13;
 // $success-color: #5da423;
@@ -69,7 +69,7 @@
 //
 
 // We use these to control header font styles
-// $header-font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+ $header-font-family: abril-text, georgia, serif;
 // $header-font-weight: bold;
 // $header-font-style: normal;
 // $header-font-color: #222;
