@@ -12,9 +12,9 @@ body{
 
 	h5 {
 	font-size: 1em; 
-	width: 14em; 
-	line-height: 56px; 
-	margin: 1em 0 0 1em;
+	width: 21em; 
+	line-height: 1em; 
+	margin: 1.5em 0 0 1em;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	color: rgb(201, 193, 185);
@@ -26,7 +26,7 @@ body{
 #logo {float: left; margin: .75em 0; }
 
 div#photo{
-	background: rgb(219, 214, 210) url(img/arrowhead.jpg) no-repeat 50% 50% fixed; 
+	background: rgb(219, 214, 210) url(img/arrowhead.jpg) no-repeat 50% 50%; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
